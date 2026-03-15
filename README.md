@@ -58,11 +58,11 @@ Gliding is my biggest passion, there is no better feeling than climbing in a con
 
 ## Projects
 
-Most notable projects of mine include:
+### Most notable projects of mine include:
 - Discord bot for gambling
 - Tetris
 - Attendance for a company
-In progress:
+### In progress:
 - Encrypted communication platform
 
 ---
