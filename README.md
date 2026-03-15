@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Vít Bojanovský]
+# Vít Bojanovský
 
 **Systems Developer · Hardware Engineer · Glider Pilot**
 
