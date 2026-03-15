@@ -62,6 +62,7 @@ Gliding is my biggest passion, there is no better feeling than climbing in a con
 - Discord bot for gambling
 - Tetris
 - Attendance for a company
+- Code stats tracker
 ### In progress:
 - Encrypted communication platform
 
