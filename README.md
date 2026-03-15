@@ -4,8 +4,6 @@
 
 **Systems Developer · Hardware Engineer · Glider Pilot**
 
-[Your Location] &nbsp;|&nbsp; Open to collaboration
-
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bojanovsky.vit@protonmail.com)
 
 </div>
