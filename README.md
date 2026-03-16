@@ -85,4 +85,3 @@ Gliding is my biggest passion, there is no better feeling than climbing in a con
 *Always building and not finishing projects, flying in the meantime*
 
 </div>
-Vít’s iPhone
