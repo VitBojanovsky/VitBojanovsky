@@ -65,6 +65,7 @@ Gliding is my biggest passion, there is no better feeling than climbing in a con
 - Code stats tracker
 ### In progress:
 - Encrypted communication platform
+- Airborne radar sensor fusion
 
 ---
 
