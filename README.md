@@ -39,11 +39,5 @@ Gliding is my biggest passion — there is no better feeling than climbing in a 
 
 ---
 
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitBojanovsky&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitBojanovsky&layout=compact&hide_border=true&theme=default)
-
----
 
 *Always building and not finishing projects, flying in the meantime*
