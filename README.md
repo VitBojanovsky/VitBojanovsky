@@ -1,5 +1,5 @@
 # Vít Bojanovský
-
+## Check out my projects on Forgejo https://forgejo.smizek.com/VitBojanovsky
 Systems developer, hardware engineer, glider pilot.
 
 [bojanovsky.vit@protonmail.com](mailto:bojanovsky.vit@protonmail.com)
